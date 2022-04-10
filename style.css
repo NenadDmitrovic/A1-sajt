@@ -269,35 +269,35 @@ margin-top: 150px;
     display: none;
 }
 #neo-15-sa {
-    background-image: url(../a1/img/Izaberi-neo/neo15-sa.png);
+    background-image: url(./img/Izaberi-neo/neo15-sa.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 291px;
     height: 720px;
 }
 #neo-5-sa {
-    background-image: url(../a1/img/Izaberi-neo/neo5-sa.png);
+    background-image: url(./img/Izaberi-neo/neo5-sa.png);
     width: 291px;
     height: 720px;
 }
 #neo-3-sa {
-    background-image: url(../a1/img/Izaberi-neo/neo3-sa.png);
+    background-image: url(./img/Izaberi-neo/neo3-sa.png);
     width: 291px;
     height: 720px;
 }
 
 #neo-15-bez {
-    background-image: url(../a1/img/Izaberi-neo/neo15-bez.png);
+    background-image: url(./img/Izaberi-neo/neo15-bez.png);
     width: 291px;
     height: 720px;
 }
 #neo-5-bez {
-    background-image: url(../a1/img/Izaberi-neo/neo5-bez.png);
+    background-image: url(./img/Izaberi-neo/neo5-bez.png);
     width: 291px;
     height: 720px;
 }
 #neo-3-bez {
-    background-image: url(../a1/img/Izaberi-neo/neo3-bez.png);
+    background-image: url(./img/Izaberi-neo/neo3-bez.png);
     width: 291px;
     height: 720px;
 }
@@ -402,17 +402,17 @@ margin-top: 150px;
 #red-card {
     width: 290px;
     height: 430px;
-    background-image: url(../a1/img/sta-ima/red-card.png);
+    background-image: url(./img/sta-ima/red-card.png);
 }
 #blue-card {
     width: 290px;
     height: 430px;
-    background-image: url(../a1/img/sta-ima/blue-card.png);
+    background-image: url(./img/sta-ima/blue-card.png);
 }
 #black-card {
     width: 290px;
     height: 430px;
-    background-image: url(../a1/img/sta-ima/black-card.png);
+    background-image: url(./img/sta-ima/black-card.png);
     display: none;
 }
 /****************** Cetvrta sekcija *********************/
@@ -431,7 +431,7 @@ margin-top: 150px;
     gap: 30px;
 }
 #zasto-online1 {
-    background-image: url(../a1/img/online/gore-levo.jpg);
+    background-image: url(./img/online/gore-levo.jpg);
     display: grid;
     grid-area: a;
     background-size: cover;
@@ -446,14 +446,14 @@ margin-top: 150px;
     line-height: 25px;
 }
 #osiguranje {
-    background-image: url(../a1/img/online/dole-levo.png);
+    background-image: url(./img/online/dole-levo.png);
     background-size: cover;
     background-repeat: no-repeat;
     display: grid;
     grid-area: c;
 }
 #desna-slika {
-    background-image: url(../a1/img/online/desno.png);
+    background-image: url(./img/online/desno.png);
     background-size: cover;
     background-repeat: no-repeat;
     display: grid;
